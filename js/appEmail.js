@@ -1,0 +1,1 @@
+//Simulador de envio de Email utilizando JavaScript 
