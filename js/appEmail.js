@@ -1,5 +1,6 @@
 //Simulador de envio de Email utilizando JavaScript 
 //Jose Moreno Gomez
+//Bot slacks
 
 
 const email = document.getElementById('email');
